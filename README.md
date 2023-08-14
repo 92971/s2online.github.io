@@ -1,8 +1,8 @@
-# s2online
+# Scratch 2 in your browser
 
 Download and open projects in the Scratch 2.0 editor
 
-Use it: https://s2online.github.io/
+Use it: https://92971.github.io/scratch2/
 
 Note to self... :P
 
