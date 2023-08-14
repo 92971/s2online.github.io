@@ -1,4 +1,4 @@
-# Scratch 2 in your browser
+# Scratch 2 in your browser (Ruffle)
 
 Download and open projects in the Scratch 2.0 editor
 
